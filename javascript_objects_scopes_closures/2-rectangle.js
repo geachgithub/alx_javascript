@@ -8,9 +8,7 @@ class Rectangle{
             this.height=h
         }
         else{
-            constructor();{
-
-            }
+            constructor()
         }
     }       
 }
