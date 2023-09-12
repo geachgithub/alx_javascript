@@ -3,4 +3,4 @@ class rectangle{
 
     }
 }
-module.exprts={rectangle}
+module.exports={rectangle}
