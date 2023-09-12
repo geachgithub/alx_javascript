@@ -1,4 +1,2 @@
 
-export class Rectangle{
-    constructor(){}
-}
+export class Rectangle{}
