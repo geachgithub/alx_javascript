@@ -1,6 +1,4 @@
-class rectangle{
-    constructor(){
 
-    }
+class rectangle{
 }
 module.exports={rectangle}
