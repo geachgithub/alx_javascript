@@ -1,7 +1,7 @@
+
 languages=['C is fun','Python is cool','JavaScript is amazing']
-i=0
-while(i<languages.length)
+
+for(let i=0;i<languages.length;i++)
 {
     console.log(languages[i])
-    i++
 }
