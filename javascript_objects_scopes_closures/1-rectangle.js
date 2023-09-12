@@ -1,7 +1,7 @@
 class Rectangle{
-    constructor(h, w){
-        height=this.h
+    constructor(w, h){
         width=this.w
+        height=this.h
     }
 }
 module.exports=Rectangle
