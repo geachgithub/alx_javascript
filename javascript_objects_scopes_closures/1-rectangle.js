@@ -1,6 +1,6 @@
 class Rectangle{
     constructor(h, w){
-        hieght=this.h
+        height=this.h
         width=this.w
     }
 }
