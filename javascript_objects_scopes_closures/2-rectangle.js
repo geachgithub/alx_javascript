@@ -2,7 +2,7 @@
 class Rectangle{
     height
     width
-    constructor(w,h){
+    constructor(h,w){
         if(w<=0 || h<=0){
         }
         else{
