@@ -1,5 +1,4 @@
 
-class Rectangle{
+export class Rectangle{
     constructor(){}
 }
-module.exports={Rectangle}
