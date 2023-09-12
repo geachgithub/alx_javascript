@@ -7,6 +7,11 @@ class Rectangle{
             this.width=w  
             this.height=h
         }
+        else{
+            constructor();{
+
+            }
+        }
     }       
 }
 /*r1=new Rectangle(2,9)
