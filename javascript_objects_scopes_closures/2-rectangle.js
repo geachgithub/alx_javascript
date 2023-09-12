@@ -3,12 +3,9 @@ class Rectangle{
     height
     width
     constructor(w,h){
-        if(w<=0 || h<=0){
-        }
-        else{
             this.height=h
             this.width=w    
-        }
+        
             }
 }
 /*r1=new Rectangle(2,9)
