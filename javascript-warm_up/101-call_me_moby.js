@@ -7,7 +7,7 @@ function callMeMoby(number, fun){
         i++
     }
 }
-module.export={callMeMoby}
+module.export=callMeMoby
 /*callMeMoby(3,function fun(){
     console.log('c is fun')
     } 
