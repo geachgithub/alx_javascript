@@ -4,6 +4,6 @@ const myObject = {
     value: 12
   };
 const incr=()=>{
-    myObject.value++
+    myObject.value=myObject.value+1
 }
 module.exports={incr}
