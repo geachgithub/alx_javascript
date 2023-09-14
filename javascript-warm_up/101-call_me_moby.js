@@ -7,7 +7,7 @@ const callMeMoby=(number, fun)=>{
         i++
     }
 }
-module.exports=callMeMoby
+module.exports={callMeMoby}
 /*callMeMoby(3,function fun(){
     console.log('c is fun')
     } 
