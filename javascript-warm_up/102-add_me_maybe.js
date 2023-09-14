@@ -1,4 +1,4 @@
-function addMeMaybe(number, fun){
+const addMeMaybe=(number, fun)=>{
     nb=number++
     fun()
 }
