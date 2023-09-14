@@ -1,7 +1,7 @@
 
 const addMeMaybe=(number, fun)=>{
     nb=number+1
-    fun()
+    fun(nb)
 }
 module.exports={addMeMaybe}
 module.export=nb
