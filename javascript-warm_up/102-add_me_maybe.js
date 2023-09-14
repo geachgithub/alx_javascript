@@ -4,4 +4,4 @@ const addMeMaybe=(number, fun)=>{
     fun()
 }
 module.exports={addMeMaybe}
-module.exports=nb
+module.export=nb
