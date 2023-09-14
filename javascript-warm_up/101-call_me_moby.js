@@ -1,3 +1,5 @@
+
+//javascript callback functions
 function callMeMoby(number, fun){
     i=0
     while(number>i){
@@ -7,5 +9,5 @@ function callMeMoby(number, fun){
 }
 /*callMeMoby(3,function fun(){
     console.log('c is fun')
-    }
+    } 
     )*/
