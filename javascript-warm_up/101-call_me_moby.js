@@ -1,6 +1,6 @@
 
 //javascript callback functions
-function callMeMoby(number, fun){
+const callMeMoby=(number, fun)=>{
     i=0
     while(number>i){
         fun()
